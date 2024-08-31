@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "集信箱/11.md",
+                "file": "工具/git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "集信箱/11.md",
+                "file": "工具/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "集信箱/11.md"
+                "file": "工具/git.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "集信箱/11.md",
+                "file": "工具/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,8 +206,8 @@
   },
   "active": "47e0665ef46e3df1",
   "lastOpenFiles": [
-    "集信箱/未命名.md",
     "集信箱/11.md",
+    "集信箱/未命名.md",
     "集信箱/未命名思维导图 3.md",
     "集信箱/未命名思维导图 2.md",
     "集信箱/未命名思维导图 1.md",
