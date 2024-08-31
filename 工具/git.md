@@ -1,7 +1,7 @@
 ### git 常用的一些指令
 - ls: 查看本地文件
-- git ls-files:
-- git status: 查看仓库状态
+- git ls-files: 版本库文件
+- git status: 查看暂存区状态
 - git config --list：查看所有配置
 - git config -- list --show-origin：查看所有配置以及它们所在文件
 - git config --global user.name 用户名：全局设置用户签名
@@ -30,7 +30,13 @@
 - git commit -m "日志信息"：提交（增删改）到本地仓库
 - git reflog：查看版本历史记录
 - git log：查看详细的版本记录
-- git reset --hard 版本号：版本穿梭 
+- git reset --hard 版本号：版本穿梭
+- git branch：查看本地分支 
+- git branch -r 查看远程分支
+- git branch -a 查看本地和远程分支 
+- git push origin --delete [branch_name]：git 删除远程分支
+-  git branch -d 本地分支名：删除本地分支
+- git push origin : 远程分支 ：推送空分支到远程（删除远程分支另一种实现）
 - git branch 分支名：创建分支
 - git branch -v：查看分支
 - git checkout：切换分支
@@ -48,3 +54,4 @@
 
 
 
+ 
