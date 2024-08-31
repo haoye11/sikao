@@ -11,9 +11,12 @@
             "id": "c71a2ce8ce53a347",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/简单句.excalidraw.md"
+                "file": "日记/2024-08-31.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/简单句.excalidraw.md",
+                "file": "日记/2024-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/简单句.excalidraw.md"
+                "file": "日记/2024-08-31.md"
               }
             }
           },
@@ -142,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/简单句.excalidraw.md",
+                "file": "日记/2024-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,11 +176,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +206,10 @@
   },
   "active": "c71a2ce8ce53a347",
   "lastOpenFiles": [
+    "日记/2024-08-30.md",
     "日记/2024-08-31.md",
+    "集信箱/未命名.md",
+    "Excalidraw/简单句.excalidraw.md",
     "1/记录.loom",
     "日记",
     "大学/数学/高数.md",
@@ -234,8 +240,6 @@
     "flomo/2023-02-09.md",
     "flomo/2023-02-04.md",
     "flomo/2023-02-03.md",
-    "flomo/2023-02-02.md",
-    "flomo/2023-01-31.md",
     "工具/扫描件_本题满分11分)_1.jpg",
     "附件",
     "flomo",
