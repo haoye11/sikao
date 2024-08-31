@@ -31,15 +31,6 @@
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "file-explorer:new-file-in-new-pane": [],
   "editor:toggle-italics": [],
-  "cmdr:open-commander-settings": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -73,6 +64,14 @@
         "Mod"
       ],
       "key": "ArrowDown"
+    }
+  ],
+  "obsidian-enhancing-mindmap:Create New MindMap": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "strictLineBreaks": true,
   "autoPairMarkdown": true,
   "readableLineLength": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "spellcheck": true,
   "defaultViewMode": "source",
   "showLineNumber": true,
@@ -15,5 +15,6 @@
   "livePreview": true,
   "newFileFolderPath": "集信箱",
   "vimMode": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showRibbon": true
 }

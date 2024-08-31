@@ -10,5 +10,6 @@
   "enabledCssSnippets": [
     "图片"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showViewHeader": false
 }
