@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "a9aa491ddf581381",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae805cadd30c68ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "416223385b4adf8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单容水箱.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "955b4df446ebc311",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1978552e8e8029f0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "be15f5fe105bd239",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c880206cb4105555",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "30869e1423b69108",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ac36ab847feaf996",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a096d5d438b52d59",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "单容水箱.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "16bd613e1200faee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "单容水箱.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "104a63b24b1e073b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "单容水箱.md"
+          }
+        }
+      },
+      {
+        "id": "5631f8bdd19d8fc8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "416223385b4adf8a",
+  "lastOpenFiles": [
+    "集信箱/markdowm.md",
+    "集信箱/markdowm.md.tacitpart",
+    "集信箱",
+    "附件/结构1_00.jpg",
+    "附件/结构1_00.jpg.tacitpart",
+    "附件/拓扑.png",
+    "附件/拓扑.png.tacitpart",
+    "附件",
+    "一种三维无线充电台面.md",
+    "一种三维无线充电台面.md.tacitpart"
+  ]
+}

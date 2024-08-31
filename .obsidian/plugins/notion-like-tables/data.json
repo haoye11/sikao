@@ -1,0 +1,16 @@
+{
+  "shouldDebug": false,
+  "createAtObsidianAttachmentFolder": true,
+  "customFolderForNewTables": "",
+  "exportRenderMarkdown": true,
+  "defaultEmbedWidth": "100%",
+  "defaultEmbedHeight": "340px",
+  "data": {},
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "eventType": "update-state",
+    "tableId": null,
+    "viewModes": []
+  },
+  "shouldClear": true
+}

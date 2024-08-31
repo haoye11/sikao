@@ -1,0 +1,9 @@
+{
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "blue-topaz-theme@@left-ribbon-style": "hide-left-ribbon",
+  "blue-topaz-theme@@hide-vault-name": false,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@clutter-free-headings": false
+}

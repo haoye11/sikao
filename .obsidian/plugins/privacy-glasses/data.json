@@ -1,0 +1,9 @@
+{
+  "blurOnStartup": "reveal-all",
+  "blurLevel": 0.3,
+  "blurOnIdleTimeoutSeconds": 600,
+  "hoverToReveal": true,
+  "revealUnderCaret": false,
+  "privateDirs": "想法 ,日记",
+  "privateNoteMarker": "#private"
+}

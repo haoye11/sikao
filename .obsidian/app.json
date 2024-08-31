@@ -1,0 +1,19 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": false,
+  "attachmentFolderPath": "附件",
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "autoPairMarkdown": true,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "spellcheck": true,
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "autoConvertHtml": false,
+  "livePreview": true,
+  "newFileFolderPath": "集信箱",
+  "vimMode": false,
+  "rightToLeft": false
+}
