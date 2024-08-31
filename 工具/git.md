@@ -1,4 +1,6 @@
 ### git 常用的一些指令
+- ls: 查看本地文件
+- git ls-files:
 - git status: 查看仓库状态
 - git config --list：查看所有配置
 - git config -- list --show-origin：查看所有配置以及它们所在文件
@@ -38,6 +40,7 @@
 - git remote rm 别名：删除与远端仓库的连接
 - git remote add 别名 远程仓库：仓库起别名
 - git push 别名 分支：推送本地分支上的内容到远程仓库
+- git puah 别名 main：main：本地 main 推送到远程 main
 - git clone 远程仓库：将远程仓库上的内容克隆到本地
 - git pull 远程库地址别名远程分支名：将远程库对于分支最新内容拉取下来与当前本地分支合并
 - ssh-keygen -t rsa -C 邮箱：生成密钥
