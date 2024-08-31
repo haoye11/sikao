@@ -11,12 +11,9 @@
             "id": "c71a2ce8ce53a347",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "工具/概率.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/简单句.excalidraw.md"
               }
             }
           }
@@ -72,14 +69,6 @@
             }
           },
           {
-            "id": "4d7f0f3c9d4be39a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "1030ebade52f6888",
             "type": "leaf",
             "state": {
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/概率.md",
+                "file": "Excalidraw/简单句.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/概率.md"
+                "file": "Excalidraw/简单句.excalidraw.md"
               }
             }
           },
@@ -153,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/概率.md",
+                "file": "Excalidraw/简单句.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +165,7 @@
             }
           },
           {
-            "id": "2cde27fb6985cc38",
+            "id": "90eeaf40344e19e5",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -184,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,14 +195,24 @@
       "notion-like-tables:Create Notion-Like table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "remotely-save:Remotely Save": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "card-board:CardBoard": false,
+      "obsidian-kanban:创建新看板": false,
+      "notion-like-tables:Create loom": false
     }
   },
   "active": "c71a2ce8ce53a347",
   "lastOpenFiles": [
-    "工具/git.md",
-    "1/记录.table",
+    "日记/2024-08-31.md",
+    "1/记录.loom",
+    "日记",
+    "大学/数学/高数.md",
+    "阅读笔记/原子习惯.md",
+    "阅读笔记/太白金星有点烦.md",
+    "阅读笔记/阿德勒心理学.md",
     "工具/概率.md",
+    "附件/Untitled.loom",
+    "工具/git.md",
     "集信箱/期房.md",
     "集信箱/学习.md",
     "附件/拓扑.png",
@@ -237,12 +236,6 @@
     "flomo/2023-02-03.md",
     "flomo/2023-02-02.md",
     "flomo/2023-01-31.md",
-    "flomo/2023-01-30.md",
-    "flomo/2023-01-27.md",
-    "flomo/2023-01-23.md",
-    "flomo/2023-01-19.md",
-    "flomo/2023-01-10.md",
-    "flomo/2023-01-05.md",
     "工具/扫描件_本题满分11分)_1.jpg",
     "附件",
     "flomo",
@@ -250,8 +243,6 @@
     "1",
     "附件/Untitled.table",
     "阅读笔记",
-    "大学/Untitled.table",
-    "大学/作业",
     "附件/Pasted image 20230327162138.png"
   ]
 }
