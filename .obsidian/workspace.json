@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/git.md",
+                "file": "工具/概率.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/git.md",
+                "file": "工具/概率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/git.md"
+                "file": "工具/概率.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/git.md",
+                "file": "工具/概率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,12 +206,12 @@
       "notion-like-tables:Create Notion-Like table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "remotely-save:Remotely Save": false,
-      "periodic-notes:Open this week": false,
-      "card-board:CardBoard": false
+      "periodic-notes:Open this week": false
     }
   },
   "active": "c71a2ce8ce53a347",
   "lastOpenFiles": [
+    "工具/git.md",
     "1/记录.table",
     "工具/概率.md",
     "集信箱/期房.md",
