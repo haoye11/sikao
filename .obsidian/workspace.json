@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3face7c47e873081",
+        "id": "0385929ece40d0d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a624f9b2f17bc300",
+            "id": "7ee8d350e0f643a3",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "集信箱/未命名思维导图.md"
+                "file": "集信箱/未命名.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "集信箱/未命名思维导图.md",
+                "file": "集信箱/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "集信箱/未命名思维导图.md"
+                "file": "集信箱/未命名.md"
               }
             }
           },
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "集信箱/未命名思维导图.md",
+                "file": "集信箱/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,12 +186,18 @@
       "remotely-save:Remotely Save": false,
       "obsidian-kanban:创建新看板": false,
       "notion-like-tables:Create loom": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "44f51297180976bc",
+  "active": "7ee8d350e0f643a3",
   "lastOpenFiles": [
+    "集信箱/未命名思维导图 3.md",
+    "集信箱/未命名思维导图 2.md",
+    "集信箱/未命名思维导图 1.md",
     "集信箱/未命名思维导图.md",
+    "大学/Untitled.table",
+    "1/记录.table",
     "日记/2024-08-31.md",
     "日记/2024-08-30.md",
     "集信箱/未命名.md",
@@ -219,16 +228,11 @@
     "flomo/2023-02-27.md",
     "flomo/2023-02-23.md",
     "flomo/2023-02-18.md",
-    "flomo/2023-02-11.md",
-    "flomo/2023-02-09.md",
-    "flomo/2023-02-04.md",
     "工具/扫描件_本题满分11分)_1.jpg",
     "附件",
     "flomo",
     "Excalidraw",
     "1",
-    "附件/Untitled.table",
-    "阅读笔记",
     "附件/Pasted image 20230327162138.png"
   ]
 }
