@@ -15,6 +15,14 @@
 - git add：把文件添加到可提交列表（临时缓冲区）(./--all 添加所有文件)
 - git diff; 显示改动
 - git rm --cached 文件：把文件从临时缓冲去删除
+- $ git rm -h
+  用法：git rm [<选项>] [--] <文件>...
+    -n, --dry-run         演习
+    -q, --quiet           不列出删除的文件
+    --cached              只从索引区删除
+    -f, --force           忽略文件更新状态检查
+    -r                    允许递归删除
+    --ignore-unmatch      即使没有匹配，也以零状态退出
 - git checkout -- file：可以丢弃工作区的修改
 - git push -u 别名 分支：由于远程库是空的，我们第一次推送 master 分支时，加上了-u 参数，Git 不但会把本地的 master 分支内容推送的远程新的 master 分支，还会把本地的 master 分支和远程的 master 分支关联起来，在以后的推送或者拉取时就可以简化命令。
 - git commit -m "日志信息"：提交（增删改）到本地仓库
