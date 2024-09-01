@@ -86,7 +86,7 @@
           {
             "id": "ab77ae5c-3957-418b-a5b6-7bda1af33e94",
             "columnId": "2efb68a9-9270-4985-8052-5b5ad14dc1de",
-            "path": "",
+            "path": "日记/2024-09-01",
             "alias": "clash",
             "hasValidFrontmatter": null
           },
@@ -112,7 +112,7 @@
           }
         ],
         "sourceId": null,
-        "lastEditedDateTime": "2024-09-01T00:25:35.953Z",
+        "lastEditedDateTime": "2024-09-01T11:44:29.220Z",
         "creationDateTime": "2024-05-14T05:24:41.609Z"
       },
       {
