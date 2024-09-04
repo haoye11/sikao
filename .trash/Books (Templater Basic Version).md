@@ -14,9 +14,7 @@ date_start:
 date_finish:
 ---
 ## 3 sentences to describe the book
-1. 
-2. 
-3. 
+
 
 ## 5 take aways
 1. 
