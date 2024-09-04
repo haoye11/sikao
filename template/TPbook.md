@@ -18,8 +18,9 @@ price: {{price}}
 state: <%await tp.system.suggester(["done", "doing", "to-do"], ["done", "doing", "to-do"], true, 'status')%>
 binding: {{binding}}
 desc: {{desc}}
----
 
+---
+cover:![image]({{image}})
 Comment: 
 ---
 
