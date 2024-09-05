@@ -38,44 +38,8 @@ Habit_4:
 - [ ] morning exercises
 - [ ] 10 minutes meditation
 - [ ] clean room for work
-- [ ] review highlights on [readwise](https://readwise.io/dashboard)
+- [ ] 
 
-## RELATIONSHIP
-
-> [!caution] 注意
-> 根据个人需求，修改dataview中的时间，让跟进的时间间隔符合你自己的要求
-### Family
- ```dataview
-table without ID
-file.link as "Family", date_last_spoken as "Last Time"
-from #people/family 
-where follow_up = true
-and date_last_spoken <= date(today) - dur(2 days)
-```
-### Friend
-```dataview
-table without ID
-file.link as Friend, date_last_spoken as "Last Time"
-from #people/friend
-where follow_up = true
-and date_last_spoken <= date(today) - dur(1 week)
-```
- `dice: #people/friend|link`
-### Client
-```dataview
-table without id file.link as Client, date_last_spoken as "Last Time"
-from #people/client 
-where follow_up = true
-and date_last_spoken <= date(today) - dur(2 week)
-```
- `dice: #people/client|link`
-## REVIEW
-### Go Back To The Future
-
-> [!caution] 注意
-> 把标签换成你日记的标签就可以了
-
- `dice: #review/daily|link`
 ### What happened today?
 #### Project
 
@@ -97,7 +61,6 @@ and date_last_spoken <= date(today) - dur(2 week)
 *struggle*
 
 *other*
-
 
 #### Idea
 

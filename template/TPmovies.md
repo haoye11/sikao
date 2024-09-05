@@ -18,6 +18,3 @@ time: {{time}}
 desc: {{desc}}
 ---
 
-Comment: 
----
-{{myComment}}
