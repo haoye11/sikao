@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"917fed6a8fe1ad8f","type":"text","text":"obsidian","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"8c7cad7daefb2134","type":"text","text":"canves","x":125,"y":-180,"width":250,"height":60},
+		{"id":"a7e99a71dac9bdf2","x":69,"y":-70,"width":250,"height":60,"type":"text","text":""},
+		{"id":"00bfedae62b05161","x":660,"y":-610,"width":715,"height":430,"type":"link","url":"https://www.bilibili.com/video/BV1FC4y117Yv/?spm_id_from=333.999.0.0&vd_source=b9a03940c829996ba637ce259e165733"}
+	],
+	"edges":[
+		{"id":"3e0570ece88586aa","fromNode":"00bfedae62b05161","fromSide":"left","toNode":"8c7cad7daefb2134","toSide":"right","label":"学习视频"}
+	]
+}
