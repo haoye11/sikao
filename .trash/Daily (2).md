@@ -1,12 +1,22 @@
 ---
+<%* 
+let url = 'https://www.tianqi.com/shanghai/'
+let res = await request({url: url,method: "GET"});
+res = res.replace(/\s/g,'') 
+r=/<ddclass="weather">[\s\S]*?<\/dd>/g
+let data = r.exec(res)[0] 
+r = /<span><b>(.*?)<\/b>(.*?)<\/span>/g
+data = r.exec(data)
+let weather='上海'+' '+data[1]+' '+data[2]
+-%>
 type: OKR
 tags:
   - review/daily
-date: 2024-09-05-星期四
-weather: 阜宁 晴 25~33℃
-Habit_1: dafa
-Habit_2: 
-Habit_3: 
+date: <% tp.file.creation_date("YYYY-MM-DD-dddd") %>
+weather: <% weather %>
+Habit_1:
+Habit_2:
+Habit_3:
 Habit_4:
 ---
 ## DIRECTION
@@ -14,24 +24,58 @@ Habit_4:
 > [!caution] 注意
 > 根据自己笔记库中对于weekly review的命名规则，修改下面这个语句，让它可以自动嵌入上周的weekly review中关于本周计划的部分。
 
-![[Weekly 2024-08-29#This week]]
+![[Weekly <% tp.date.now("YYYY-ww", -7) %>#This week]]
 
 ## GET READY
 ### Confirmations
 - 
 
 ### GTD & Top 3 Tasks
-- [x] 写完二重积分题目并回顾（没回顾）
-- [x] 专业课看完根轨迹并回顾二阶系统的稳态指标(完成一半)
-- [x] 四篇阅读
+- [ ] 
 
 ###  Morning Checklist
 - [ ] drink enough water
 - [ ] morning exercises
 - [ ] 10 minutes meditation
 - [ ] clean room for work
+- [ ] review highlights on [readwise](https://readwise.io/dashboard)
 
+## RELATIONSHIP
 
+> [!caution] 注意
+> 根据个人需求，修改dataview中的时间，让跟进的时间间隔符合你自己的要求
+### Family
+ ```dataview
+table without ID
+file.link as "Family", date_last_spoken as "Last Time"
+from #people/family 
+where follow_up = true
+and date_last_spoken <= date(today) - dur(2 days)
+```
+### Friend
+```dataview
+table without ID
+file.link as Friend, date_last_spoken as "Last Time"
+from #people/friend
+where follow_up = true
+and date_last_spoken <= date(today) - dur(1 week)
+```
+ `dice: #people/friend|link`
+### Client
+```dataview
+table without id file.link as Client, date_last_spoken as "Last Time"
+from #people/client 
+where follow_up = true
+and date_last_spoken <= date(today) - dur(2 week)
+```
+ `dice: #people/client|link`
+## REVIEW
+### Go Back To The Future
+
+> [!caution] 注意
+> 把标签换成你日记的标签就可以了
+
+ `dice: #review/daily|link`
 ### What happened today?
 #### Project
 
@@ -40,19 +84,20 @@ Habit_4:
 > 1.回顾目标 2.叙述过程（5W1H）3.评估结果（SWOT）4.分析原因 （5WHYs） 5.推演规律  6.记录归档 
 
 *Achivement*
-能勉强达成目标，但是时间利用率仍较低，回顾工作不知道从哪里入手，可以去找相关视频学习一下。
+
 *Opportunity*
-早上起床时会看手机，可以加以改进
+
 *Action Plan*
-睡觉前手机放远，或是放本书
+
 
 #### About Today
 
  *win*
-大概完成了学习计划
+
 *struggle*
-复习不知从哪入手，脖子不舒服
+
 *other*
+
 
 #### Idea
 
@@ -78,13 +123,13 @@ Habit_4:
 ### Notes created today
 ```dataview
 list
-where file.cday = date(2024-09-05)
+where file.cday = date(<% tp.file.creation_date("YYYY-MM-DD") %>)
 sort file.ctime asc
 ```
 ### Notes modified today
 ```dataview
 list
-where file.mday = date(2024-09-05)
+where file.mday = date(<% tp.file.creation_date("YYYY-MM-DD") %>)
 sort file.mtime asc
 ```
 
@@ -221,5 +266,3 @@ for (let page of dv.pages('"daily"').where(p => p.Habit_4)) {
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
-
-
