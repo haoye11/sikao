@@ -21,11 +21,15 @@ word:
 > [!caution] 注意
 > 根据自己笔记库中对于weekly review的命名规则，修改下面这个语句，让它可以自动嵌入上周的weekly review中关于本周计划的部分。
 
-![[003_Weekly Review <% tp.date.now("YYYY-MM-DD", -7) %>#This week]]
+![[ <% tp.date.now("YYYY-wo", -7) %>#This week]]
 
 ## GET READY
 ### Confirmations
 - 日历翻页
+
+### Yesterday task
+- [>] [[<% tp.date.yesterday("YYYY-MM-DD") %>|Yesterday]]
+![[<% tp.date.yesterday("YYYY-MM-DD") %>#Be Grateful!]]
 
 ### GTD & Top 3 Tasks
 - [ ] 
@@ -38,36 +42,34 @@ word:
 - [ ] morning exercises
 - [ ] 10 minutes meditation
 - [ ] clean room for work
-- [ ] review highlights on [readwise](https://readwise.io/dashboard)
-### What happened today?
-#### Project
+
+## What happened today?
+### Project
 
 > [!important] Prompt
 > 今天关于项目的内容，请按照以下步骤进行复盘: 
-> 1.回顾目标 2.叙述过程（5W1H）3.评估结果（SWOT）4.分析原因 （5WHYs） 5.推演规律  6.记录归档 
-> 数学学习
-
-*Achivement*
-
-*Opportunity*
-
-*Action Plan*
+> 1.回顾目标 2.叙述过程（5W1H）3.评估结果（SWOT）4.分析原因 （5WHYs） 5.推演规律  6.记录归档   
+>  数学复盘考虑三点：
+> 1.这题为什么这样写 2.是否有其他解法 3.写的时候有什么细节要注意
 
 
-#### About Today
-
-*win*
-
-*struggle*
-
-*other*
+#### Achivement
 
 
-#### Idea
+#### Opportunity
 
+
+#### Action Plan
+
+
+### About Today
+
+#### win
+
+#### struggle
 
 ### Be Grateful!
-- 
+> 
 
 ## END-OF-DAY CHECKLIST
 - [ ] GTD

@@ -20,7 +20,7 @@ tags: " #review/daily "
 ---
 ## DIRECTION
 
-![[ Weekly Review <% tp.date.now("YYYY-ww", -7) %>#This week]]
+![[ <% tp.date.now("YYYY-wo", -7) %>#This week]]
 
 ## GET READY
 ### Confirmations
@@ -31,14 +31,6 @@ tags: " #review/daily "
 ![[<% tp.date.yesterday("YYYY-MM-DD") %>#Opportunities & Action Plan]]
 - [ ] 
 
-## RELATIONSHIP
-### People to catch up
-```dataview
-table without ID
-file.link as Friend, date_last_spoken as "Last Time"
-from #people/friend 
-where follow_up = true and date_last_spoken <= date(today) - dur(1 week)
-```
 
 ## REVIEW
 ### What happened today?

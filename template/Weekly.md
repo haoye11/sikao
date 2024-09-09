@@ -1,20 +1,14 @@
 ---
 type: OKR
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
-aliases: []
+aliases: 
 tags:
   - review/weekly
 ---
 ## End-of-week checklist
 
 - ### Get to Inbox Zero
-- [ ] E-mail
-- [ ] Mobile phone
-- [ ] Obsidian
-- [ ] Clear Social media favorites folder
-- [ ] Delete Downloads folder
-- [ ] Delete Desktop
-- [ ] Restart computer
+
 - ### GTD Review
 - [ ] Review Calendar
 - [ ] Review Reminder
@@ -29,11 +23,11 @@ tags:
 > [!Attention] Pay attention to this
 > Keep these things in mind as you do this week's review
 
-![[Monthly Review <% tp.date.now("YYYY-MMM", "P-1M") %>#This month]]
+![[ <% tp.date.now("YYYY-MMM") %>#This month]]
 
 ##  Last week
 
-![[003_Weekly Review <% tp.date.now("YYYY-ww", -7) %>#This week]]
+ ![[<% tp.date.now("YYYY-wo", -7) %>#This week]]
 
 ```dataview
 table file.ctime.weekday as weekday
