@@ -73,7 +73,7 @@ word:
 
 ## END-OF-DAY CHECKLIST
 - [ ] GTD
-- [ ] bookkeeping
+- [ ] 单词复习
 - [ ] review today
 - [ ] Back Up
 	- [ ] Time Machine
