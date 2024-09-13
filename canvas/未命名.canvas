@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"2d21b682ca381ea6","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"经典控制理论"},
-		{"id":"ca8831b512abd455","x":100,"y":-140,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[]
-}
