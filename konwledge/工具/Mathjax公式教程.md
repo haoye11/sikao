@@ -23,32 +23,32 @@ $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
 
 如下表所示：
 
-| 名称 | 大写 | Tex | 小写 | Tex |
-| --- | --- | --- | --- | --- |
-| alpha | A | A | α | \\alpha |
-| beta | B | B | β | \\beta |
-| gamma | Γ | \\Gamma | γ | \\gamma |
-| delta | Δ | \\Delta | δ | \\delta |
-| epsilon | E | E | ϵ | \\epsilon |
-| zeta | Z | Z | ζ | \\zeta |
-| eta | H | H | η | \\eta |
-| theta | Θ | \\Theta | θ | \\theta |
-| iota | I | I | ι | \\iota |
-| kappa | K | K | κ | \\kappa |
-| lambda | Λ | \\Lambda | λ | \\lambda |
-| mu | M | M | μ | \\mu |
-| nu | N | N | ν | \\nu |
-| xi | Ξ | \\Xi | ξ | \\xi |
-| omicron | O | O | ο | \\omicron |
-| pi | Π | \\Pi | π | \\pi |
-| rho | P | P | ρ | \\rho |
-| sigma | Σ | \\Sigma | σ | \\sigma |
-| tau | T | T | τ | \\tau |
-| upsilon | Υ | \\Upsilon | υ | \\upsilon |
-| phi | Φ | \\Phi | ϕ | \\phi |
-| chi | X | X | χ | \\chi |
-| psi | Ψ | \\Psi | ψ | \\psi |
-| omega | Ω | \\Omega | ω | \\omega |
+| 名称      | 大写  | Tex       | 小写  | Tex       |
+| ------- | --- | --------- | --- | --------- |
+| alpha   | A   | A         | α   | \\alpha   |
+| beta    | B   | B         | β   | \\beta    |
+| gamma   | Γ   | \\Gamma   | γ   | \\gamma   |
+| delta   | Δ   | \\Delta   | δ   | \\delta   |
+| epsilon | E   | E         | ϵ   | \\epsilon |
+| zeta    | Z   | Z         | ζ   | \\zeta    |
+| eta     | H   | H         | η   | \\eta     |
+| theta   | Θ   | \\Theta   | θ   | \\theta   |
+| iota    | I   | I         | ι   | \\iota    |
+| kappa   | K   | K         | κ   | \\kappa   |
+| lambda  | Λ   | \\Lambda  | λ   | \\lambda  |
+| mu      | M   | M         | μ   | \\mu      |
+| nu      | N   | N         | ν   | \\nu      |
+| xi      | Ξ   | \\Xi      | ξ   | \\xi      |
+| omicron | O   | O         | ο   | \\omicron |
+| pi      | Π   | \\Pi      | π   | \\pi      |
+| rho     | P   | P         | ρ   | \\rho     |
+| sigma   | Σ   | \\Sigma   | σ   | \\sigma   |
+| tau     | T   | T         | τ   | \\tau     |
+| upsilon | Υ   | \\Upsilon | υ   | \\upsilon |
+| phi     | Φ   | \\Phi     | ϕ   | \\phi     |
+| chi     | X   | X         | χ   | \\chi     |
+| psi     | Ψ   | \\Psi     | ψ   | \\psi     |
+| omega   | Ω   | \\Omega   | ω   | \\omega   |
 
 ## 二、上标与下标
 
