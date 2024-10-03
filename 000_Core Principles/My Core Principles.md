@@ -24,6 +24,7 @@ What it looks like when I'm practicing this
 - 可以成为一个有条理，有判断逻辑的人
 - 可以进入校园，毕业后可以拿更多**钱**
 - 或是看到更多更遥远的事，也许网上也能看，但终究不如自己去看
+- 有自己想法，不争辩不退缩
 
 What it looks like when I'm not practicing this
 - 只会一直在和他人比较，没有价值
