@@ -18,7 +18,7 @@ weather: <% weather %>
 word:
 ---
 ## DIRECTION
-![[ <% tp.date.now("YYYY-wo", 0) %>#This week]]
+![[ <% tp.date.now("YYYY-ww", 0) %>#This week]]
 ## GET READY
 ### Yesterday task
 - [>] [[<% tp.date.yesterday("YYYY-MM-DD") %>|Yesterday]]

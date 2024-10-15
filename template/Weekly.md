@@ -27,7 +27,7 @@ tags:
 
 ##  Last week
 
- ![[<% tp.date.now("YYYY-wo", -7) %>#This week]]
+ ![[<% tp.date.now("YYYY-ww", -7) %>#This week]]
 
 ```dataview
 table file.ctime.weekday as weekday
