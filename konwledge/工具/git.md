@@ -51,6 +51,13 @@
 - git pull 远程库地址别名远程分支名：将远程库对于分支最新内容拉取下来与当前本地分支合并
 - ssh-keygen -t rsa -C 邮箱：生成密钥
 - ssh -T git@github.com : 连通测试
+- git rm -r --cached .消除暂区所有的文件跟踪,-r递归删除
+- git status --ignored 查看状态，包括忽略文件
+- ignore文件
+   1. /file/表示主目录下file文件夹
+   2. ✳.文件类型：表示主目录下所有该文件类型
+   3. !important.log 不忽略该文件
+
 
 
 
