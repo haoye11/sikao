@@ -1,2 +1,6 @@
-.obsidian/
-.jpg
+/.obsidian/
+*.jpg
+*.pdf
+*.png
+/attachments/
+/电子课件/

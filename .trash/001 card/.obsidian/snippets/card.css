@@ -1,0 +1,81 @@
+
+
+/* cards 样式优化 */
+.custom-cards table.dataview tbody>tr>td:not(:first-child) span {
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.custom-cards table.dataview tbody>tr>td {
+  font-size: 14px;
+  line-height: 1.5;
+  display: inline-flex;
+  align-items: center;
+  max-width: unset !important;
+}
+
+.custom-cards table.dataview tbody>tr>td img {
+  width: 100px !important;
+  height: 131px;
+  object-fit: cover;
+}
+
+
+
+.custom-cards .table-view-thead {
+  display: none;
+}
+
+
+.custom-cards table.dataview tbody>tr {
+  cursor: pointer;
+  position: relative;
+  padding: 27px 0;
+  margin: 0;
+  border-bottom: none;
+  background-color: transparent;
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  grid-template-rows: 36px 36px 30px 30px;
+  grid-template-areas: 'pic title'
+                      'pic info'
+                      'pic score'
+                      'pic desc';
+}
+
+.custom-cards table.dataview tbody>tr:hover {
+  background-color: #f9fafb !important;
+}
+
+.custom-cards table.dataview tbody>tr::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  border-bottom: 1px dashed #e5e7eb;
+}
+
+.custom-cards table.dataview tbody>tr>td:nth-child(1) {
+  display: flex;
+  align-items: center;
+  grid-area: pic;
+}
+
+.custom-cards table.dataview tbody>tr>td:nth-child(2) {
+  grid-area: title;
+  font-weight: bolder;
+  font-size: 16px;
+}
+.custom-cards table.dataview tbody>tr>td:nth-child(3) {
+  grid-area: info;
+}
+
+.custom-cards table.dataview tbody>tr>td:nth-child(4) {
+  grid-area: score;
+}
+.custom-cards table.dataview tbody>tr>td:nth-child(5) {
+  grid-area: desc;
+}
+
