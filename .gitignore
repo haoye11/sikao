@@ -1,7 +1,13 @@
 /.obsidian/
-/trash/
+/.trash/
 *.jpg
 *.pdf
 *.png
 /attachments/
 /file/
+/.makemd/
+/.space/
+/008_file/
+*.doc
+*.docx
+
