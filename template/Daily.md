@@ -21,7 +21,7 @@ word:
 ![[ <% tp.date.now("YYYY-ww", 0) %>#This week]]
 ## GET READY
 ### Yesterday task
-- [>] [[<% tp.date.yesterday("YYYY-MM-DD") %>|Yesterday]]
+- [x] [[<% tp.date.yesterday("YYYY-MM-DD") %>|Yesterday]]
 ![[<% tp.date.yesterday("YYYY-MM-DD") %>#Be Grateful!]]
 ### GTD & Top 3 Tasks
 - [ ] <%tp.file.cursor()%>
