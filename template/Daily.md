@@ -29,6 +29,8 @@ word:
 - [ ] 
 ---
 - [ ] 查看知识点大纲[[专业课.canvas|专业课]] [[高数.canvas|高数]]
+### Be Grateful!
+> 
 ###  Morning Checklist
 - [ ] 喝水
 - [ ] 简单锻炼并冥想10分钟
@@ -56,8 +58,6 @@ word:
 
 #### struggle
 
-### Be Grateful!
-> 
 
 ## END-OF-DAY CHECKLIST
 - [ ] GTD
