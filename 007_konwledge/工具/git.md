@@ -58,7 +58,30 @@
    2. ✳.文件类型：表示主目录下所有该文件类型
    3. !important.log 不忽略该文件
 
-
-
-
- 
+### 问题
+ #### 端口22不能push
+1.使用443端口，在user/administer/.ssh文件夹中添加config文件（新建txt，直接删除后缀）
+```
+Host github.com
+  Hostname ssh.github.com
+  Port 443
+```
+修改完，使用`ssh -T git@github.com`来测试和GitHub的网络通信是否正常，如果提示Hi xxxxx! You've successfully authenticated, but GitHub does not shell access. 就表示一切正常了。
+前提是执行命令`ssh -T -p 443 git@ssh.github.com`后不再提示connection refused，所以要尝试这个方案先执行这条命令测试
+2.使用https协议，不使用ssh协议
+在你的GitHub的本地repo目录，执行如下命令：
+`git config --local -e
+然后把里面的url配置项从git格式
+`url = git@github.com:username/repo.git
+修改为https格式
+`url = https://github.com/username/repo.git
+这个其实修改的是repo根目录下的./git/config文件。
+3.DNS污染，修改hosts映射
+`ssh -vT git@github.com`v表示verbose，显示详细日记。如果是DNS污染，无法解析到GitHub可以修改hosts文件，增加一条github.com的域名映射搞定。
+`140.82.113.4 github.com
+查找http://github.com的ip地址可以使用https://dnschecker.org/来查询github.com在全球的ip地址，也可以通过https://api.github.com/meta 查看github.com官方公布的IP地址
+这个问题其实就是DNS解析被污染了，有2种可能：
+DNS解析被运营商劫持了
+使用了科学上网工具
+4.reference.
+https://zhuanlan.zhihu.com/p/521340971
