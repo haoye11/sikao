@@ -85,3 +85,18 @@ DNS解析被运营商劫持了
 使用了科学上网工具
 4.reference.
 https://zhuanlan.zhihu.com/p/521340971
+#### 取消含敏感信息的的commit
+一、删除本地还未push的commit
+需要用到 git rebase 命令
+1.`git log` 查看log，找到你想删除的commit的前一次commit，复制commit号
+![](https://raw.githubusercontent.com/haoye11/image/main/img/202411150844806.png)
+2.git rebase -i 上一次commit号 按下“回车”进入vim模式
+`git rebase -i commit号
+3.现在在vim模式内，需要手动修改最上方你要删除的commit
+先按下键盘“ins”键，进入编辑模式，再把“pick”手动敲入改成“drop”
+“ins”键在键盘“删除”键右边
+3.修改完成后再按下键盘“esc”键退出编辑模式
+4.再切换键盘为大写模式，按下两次 “Z”键，vim模式会自动回到git命令窗口模式
+git命令窗口会提示你本次rebase成功
+>注意有多次commit可能要忽略一些，不然有可能会有冲突，进入eabasing模式（不知道干啥用的）
+>https://zhuanlan.zhihu.com/p/672380389
