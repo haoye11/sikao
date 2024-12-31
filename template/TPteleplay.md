@@ -6,26 +6,22 @@ originalTitle:
 series: "{{series}}"
 type: "{{type}}"
 作者:
-  - {{author}}
+  {{author}}
 发行日期: "{{datePublished}}"
-translator: "{{translator}}"
-出版商: "{{publisher}}"
 producer: "{{producer}}"
-url: "{{url}}"
-总页数: "{{totalPage}}"
-价格: "{{price}}"
-binding: "{{binding}}"
-内容简介: "{{desc}}"
+内容简介: {{desc}}
 封面链接: "{{imageData.url}}"
+genre: {{genre}}
+director: {{director}}
+actor: {{actor}}
+author: {{author}}
+url: "{{url}}"
+country: {{country}}
+language: {{language}}
 标签:
-  - {{tag1}}
+  - {{tag3}}
 createTime: <% tp.file.creation_date("YYYY-MM-DD") %>
 state: <%await tp.system.suggester(["done", "doing", "to-do"], ["done", "doing", "to-do"], true, 'status')%>
-RGN评分: 
-是否看完: 
-追至进度: 
-观看情况: 
-书籍类型:
 ---
 
 
