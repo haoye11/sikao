@@ -6,8 +6,9 @@ color blue
 ```
 
 ```dataview
-table without id
-"![]("+ 封面 +")" as 封面，
-file.link as 书名
-from "books/book"
+Table without ID
+	title,
+	标签,
+	"![]("+ 封面链接 + ")" as cover
+From "books/book"
 ```
