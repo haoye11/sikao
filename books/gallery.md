@@ -1,3 +1,10 @@
+---
+cssclasses:
+  - cards
+  - cards-cover
+  - cards-cols-4
+---
+
 ```button
 name douban
 type command
@@ -13,3 +20,5 @@ Table without ID
 	file.link as 书名
 From "books/book"
 ```
+
+

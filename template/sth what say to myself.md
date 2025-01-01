@@ -18,16 +18,17 @@ date_modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm") %>
 tags:
   - 杂谈
 ---
-## what and how 
+## What and how 
 > [!tip]+ tip
 > write dowm what happened and express that thing how to influence your moods
-## the reason
+
+## The reason
 > [!abstract]+ reason
 > Youneed to think the reason why you feel different and 
 > write dowm whether the change of mood is necessary .
 >  
 
-## the initiatives 
+## The initiatives 
 > [!todo]+ solution
 > think what you can learn from this,and when the similar accident you will how to behave?
 
