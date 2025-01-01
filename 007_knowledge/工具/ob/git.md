@@ -1,3 +1,11 @@
+---
+date: 
+tags:
+  - ob相关
+  - git
+  - 芝士
+---
+
 ### git 常用的一些指令[廖雪峰git学习网站](https://liaoxuefeng.com/books/git/gitee/index.html)
 - ls: 查看本地文件
 - git ls-files: 版本库文件
