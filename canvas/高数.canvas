@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"b9e4d0786230bc5a","type":"group","x":680,"y":-1040,"width":1800,"height":646,"label":"未命名组"},
+		{"id":"d15cfcab94e0fcc4","type":"text","text":"会先让你求函数","x":1447,"y":-817,"width":250,"height":60},
+		{"id":"578788303da34cb6","type":"text","text":"一点导数推邻域性态$\\sin \\frac{1}{x}$","x":1741,"y":-679,"width":259,"height":119},
+		{"id":"5b2c1f657cf6f40f","type":"text","text":"最值","x":1080,"y":-1020,"width":250,"height":60},
+		{"id":"3b03d8222d7b0418","type":"text","text":"切线","x":1080,"y":-920,"width":250,"height":60},
+		{"id":"10a6b6bbe5a31839","type":"text","text":"渐近线","x":1080,"y":-800,"width":250,"height":60},
+		{"id":"47ae18ee27cfa43c","type":"text","text":"单调性，极值凹凸点，驻点","x":1080,"y":-680,"width":250,"height":90,"color":"1"},
+		{"id":"19c32fb6f2dc1476","type":"text","text":"几何","x":700,"y":-860,"width":200,"height":50},
+		{"id":"2d0a300e7b71f63e","type":"text","text":"连续函数，或是振荡间断点有原函数","x":2029,"y":-520,"width":250,"height":80},
+		{"id":"39e6d5306bfb8320","type":"text","text":"字母表示，导数的表示方法","x":1532,"y":-915,"width":291,"height":50},
+		{"id":"d8464da5d32576bd","type":"text","text":"一阶微分应用","x":-160,"y":-60,"width":250,"height":60},
+		{"id":"5d62a0897697dbf3","type":"text","text":"微分方程，隐函数，参数方程等","x":1779,"y":-814,"width":341,"height":57},
+		{"id":"5d8dc3ab3cc33743","type":"text","text":"微分等式和微分不等式","x":370,"y":290,"width":250,"height":60},
+		{"id":"ff440738d70c7b18","type":"text","text":"单调性","x":1427,"y":-160,"width":250,"height":60},
+		{"id":"9cebda6592eef62d","type":"text","text":"单调性","x":1427,"y":-650,"width":250,"height":60},
+		{"id":"c1a60730c53ecf4d","type":"text","text":"中值定理","x":370,"y":-40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"54e213ef6a8bfc6a","fromNode":"47ae18ee27cfa43c","fromSide":"right","toNode":"9cebda6592eef62d","toSide":"left"},
+		{"id":"0dcf9b3aa8611d57","fromNode":"3b03d8222d7b0418","fromSide":"right","toNode":"39e6d5306bfb8320","toSide":"left"},
+		{"id":"ea5dd27fddfc42a5","fromNode":"10a6b6bbe5a31839","fromSide":"right","toNode":"d15cfcab94e0fcc4","toSide":"left"},
+		{"id":"ad55972b78f20682","fromNode":"d15cfcab94e0fcc4","fromSide":"right","toNode":"5d62a0897697dbf3","toSide":"left"},
+		{"id":"e00e99ae0841fdcb","fromNode":"9cebda6592eef62d","fromSide":"right","toNode":"578788303da34cb6","toSide":"left"},
+		{"id":"ab7e5e326560d584","fromNode":"578788303da34cb6","fromSide":"bottom","toNode":"2d0a300e7b71f63e","toSide":"top"},
+		{"id":"6a0155c576f97f1d","fromNode":"d8464da5d32576bd","fromSide":"right","toNode":"19c32fb6f2dc1476","toSide":"left"},
+		{"id":"902716a2e4a0e45b","fromNode":"19c32fb6f2dc1476","fromSide":"right","toNode":"5b2c1f657cf6f40f","toSide":"left"},
+		{"id":"b1ecf4725f1b5c11","fromNode":"19c32fb6f2dc1476","fromSide":"right","toNode":"3b03d8222d7b0418","toSide":"left"},
+		{"id":"16e28bf87865004c","fromNode":"19c32fb6f2dc1476","fromSide":"right","toNode":"10a6b6bbe5a31839","toSide":"left"},
+		{"id":"1cad110c39acba36","fromNode":"19c32fb6f2dc1476","fromSide":"right","toNode":"47ae18ee27cfa43c","toSide":"left"},
+		{"id":"525c00be4e8f48c8","fromNode":"d8464da5d32576bd","fromSide":"right","toNode":"c1a60730c53ecf4d","toSide":"left"},
+		{"id":"5a2eea28efccc7a6","fromNode":"d8464da5d32576bd","fromSide":"right","toNode":"5d8dc3ab3cc33743","toSide":"left"}
+	]
+}

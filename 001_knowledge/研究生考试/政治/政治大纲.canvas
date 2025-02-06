@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"9f84b742805fe84b","x":-420,"y":-180,"width":780,"height":540,"type":"group","label":"马克思"},
+		{"id":"f635f41a8d1cd7bf","type":"text","text":"马哲","x":-400,"y":-160,"width":250,"height":60},
+		{"id":"b400242a86591f50","type":"text","text":"经济学","x":-400,"y":-40,"width":250,"height":60},
+		{"id":"d485e1153c9e552a","type":"text","text":"科学社会主义","x":-400,"y":80,"width":250,"height":60},
+		{"id":"135a68b6824f59e8","x":-125,"y":1086,"width":250,"height":60,"type":"text","text":"毛泽东思想"},
+		{"id":"f200be59593b0213","x":-125,"y":1200,"width":250,"height":60,"type":"text","text":"中国特色社会主义理论体系"},
+		{"id":"a2e0f429aa517310","type":"text","text":"习近平新时代中特色社会主义","x":-125,"y":1320,"width":250,"height":60}
+	],
+	"edges":[]
+}

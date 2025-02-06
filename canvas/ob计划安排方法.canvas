@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ddda804568c3fd2f","type":"text","text":"[计划](https://www.bilibili.com/video/BV1Gu4y1G7Yy/?spm_id_from=333.999.0.0&vd_source=b9a03940c829996ba637ce259e165733)","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"1ae542f12e07edbc","type":"link","url":"https://www.bilibili.com/video/BV1Gu4y1G7Yy/?spm_id_from=333.999.0.0&vd_source=b9a03940c829996ba637ce259e165733","x":240,"y":-500,"width":760,"height":640},
+		{"id":"a9d4ea46f7ca36a6","type":"text","text":"## 月度\n1. directions\n- 嵌入年度计划，进入了解目标\n2. 上月目标\n- 完成是否，完成收获，未完成原因，什么事打断你\n- 这个月要做些啥\n## 周目标\n- 周末检查\n- 每月计划\n- 上周完成\n- 这周\n> 要做的事后加入星期几和几月份 #tips\n\n","x":1180,"y":-325,"width":340,"height":270}
+	],
+	"edges":[]
+}

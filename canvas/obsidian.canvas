@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"917fed6a8fe1ad8f","type":"text","text":"obsidian","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"8c7cad7daefb2134","type":"text","text":"canves","x":125,"y":-180,"width":250,"height":60},
+		{"id":"a7e99a71dac9bdf2","type":"text","text":"quickadd","x":125,"y":240,"width":250,"height":60},
+		{"id":"841f1686deec6dba","type":"text","text":"[github](https://github.com/chhoumann/quickadd)","x":556,"y":256,"width":250,"height":60},
+		{"id":"1f27afe6766c8541","type":"text","text":"[命名](https://zhuanlan.zhihu.com/p/386885976)","x":553,"y":343,"width":250,"height":60},
+		{"id":"5f89730aae634e4a","x":-125,"y":60,"width":250,"height":60,"type":"text","text":"[obsidain中文站](https://forum-zh.obsidian.md/)"}
+	],
+	"edges":[
+		{"id":"61c5c0965d4dab76","fromNode":"a7e99a71dac9bdf2","fromSide":"right","toNode":"841f1686deec6dba","toSide":"left"},
+		{"id":"4c6a4863315ee2cc","fromNode":"a7e99a71dac9bdf2","fromSide":"right","toNode":"1f27afe6766c8541","toSide":"left","label":"文件命名"},
+		{"id":"4f260a2ebe63d6d8","fromNode":"917fed6a8fe1ad8f","fromSide":"right","toNode":"a7e99a71dac9bdf2","toSide":"top"},
+		{"id":"259f3334acba3b61","fromNode":"917fed6a8fe1ad8f","fromSide":"right","toNode":"8c7cad7daefb2134","toSide":"bottom"}
+	]
+}

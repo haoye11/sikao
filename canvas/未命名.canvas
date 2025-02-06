@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"c0b88e0dd62d0824","type":"text","text":"根轨迹","x":-125,"y":-20,"width":250,"height":50},
+		{"id":"4f7632778800d497","type":"text","text":"开环系统某一参数变化，闭环系统特征方程的根在s平面变化的轨迹，求D(S)=1+/-G(S)H(S)=0","x":200,"y":-120,"width":560,"height":60},
+		{"id":"eac4dac548b9af4a","type":"text","text":"根轨迹绘制法则","x":200,"y":-25,"width":250,"height":60},
+		{"id":"8fc634b256427e81","type":"text","text":"系统添加开环负实数零点（减小闭环阻尼），使根轨迹向s左平面弯曲","x":200,"y":200,"width":560,"height":60},
+		{"id":"1b8318924c275014","type":"text","text":"改善稳定性\n改善动态性能\n","x":804,"y":199,"width":250,"height":60},
+		{"id":"1361c1ff1bc44f53","type":"text","text":"减小闭环阻尼，动态性能","x":804,"y":120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"412c44481186e8b1","fromNode":"c0b88e0dd62d0824","fromSide":"right","toNode":"4f7632778800d497","toSide":"left"},
+		{"id":"884445af294c8eb6","fromNode":"c0b88e0dd62d0824","fromSide":"right","toNode":"eac4dac548b9af4a","toSide":"left"},
+		{"id":"1d122c86085ca276","fromNode":"8fc634b256427e81","fromSide":"right","toNode":"1b8318924c275014","toSide":"left"},
+		{"id":"8efe6824d85567e6","fromNode":"8fc634b256427e81","fromSide":"right","toNode":"1361c1ff1bc44f53","toSide":"left"}
+	]
+}
