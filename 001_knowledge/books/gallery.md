@@ -4,12 +4,21 @@ cssclasses:
   - cards-cover
   - cards-cols-4
 ---
+`BUTTON[douban]`
+```meta-bind-button
+label: gallery
+icon: book
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: douban
+hidden: true
+actions:
+  - type: command
+    command: obsidian-douban-plugin:searcher-douban-import-and-create-file
 
-```button
-name douban
-type command
-action Douban: 搜索豆瓣并创建文档
-color blue
 ```
 ### 书架
 ```dataview
@@ -18,7 +27,7 @@ Table without ID
 	file.link as 书名,
 	标签,
 	发行日期
-From "books/book"
+From "001_knowledge/books/book"
 ```
 
 

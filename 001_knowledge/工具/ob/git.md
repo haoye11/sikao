@@ -8,9 +8,10 @@ tags:
 
 ### git 常用的一些指令[廖雪峰git学习网站](https://liaoxuefeng.com/books/git/gitee/index.html)
 - ls: 查看本地文件
-- git ls-files: 版本库文件
+- git ls-files: 版本库文件，可以列出Git存储库中所有文件的详细信息
 - git status: 查看暂存区状态
 - git config --list：查看所有配置
+- git count-objects：命令可以查找存储库的大小，并显示存储库中的对象数量-v选项显示对象数量和总大小，-H选项以人类可读的格式显示文件大小。。
 - git config -- list --show-origin：查看所有配置以及它们所在文件
 - git config --global user.name 用户名：全局设置用户签名
 - git config --global user.email 邮箱：全局设置用户签名
@@ -35,6 +36,8 @@ tags:
     --ignore-unmatch      即使没有匹配，也以零状态退出
 - git checkout -- file：可以丢弃工作区的修改
 - git push -u 别名 分支：由于远程库是空的，我们第一次推送 master 分支时，加上了-u 参数，Git 不但会把本地的 master 分支内容推送的远程新的 master 分支，还会把本地的 master 分支和远程的 master 分支关联起来，在以后的推送或者拉取时就可以简化命令。
+- git gc --prune=now1\. 运行 `gc` ，生成 `pack` 文件（后面的 `--prune=now` 表示对之前的所有提交做修剪，有的时候仅仅 `gc` 一下`.git` 文件就会小很多）[常用清理指令](https://blog.axiaoxin.com/post/git-gc-prune-clean/)
+- git filter-branch[git仓库清理教学](https://juejin.cn/post/7024922528514572302)
 - git commit -m "日志信息"：提交（增删改）到本地仓库
 - git reflog：查看版本历史记录
 - git log：查看详细的版本记录
@@ -46,6 +49,7 @@ tags:
 -  git branch -d 本地分支名：删除本地分支
 - git push origin : 远程分支 ：推送空分支到远程（删除远程分支另一种实现）
 - git branch 分支名：创建分支
+- git branch -m <旧分支名> <新分支名> 
 - git branch -v：查看分支
 - git checkout：切换分支
 - git merge：合并分支
@@ -67,6 +71,18 @@ tags:
    3. !important.log 不忽略该文件
 
 ### 问题
+#### 看版本库文件时中文乱码
+在bash界面，左上角选择options，然后选中text，里面选择zh_CN,utf-8.
+而后在bash界面运行以下代码。
+设置为false时，Git不会对文件名进行转义，这对于处理非ASCII字符的文件名非常有用。
+`git config --global core.quotepath false`
+指定了GUI工具使用的默认编码，通常用于显示文件内容和提交信息。
+`git config --global gui.encoding utf-8`
+指定了提交信息的编码，确保提交信息可以正确地显示和存储非ASCII字符。
+`git config --global i18n.commitencoding utf-8`
+指定了日志输出的编码，确保日志信息可以正确地显示和存储非ASCII字符。
+`git config --global i18n.logoutputencoding utf-8`
+
  #### 端口22不能push
 1.使用443端口，在user/administer/.ssh文件夹中添加config文件（新建txt，直接删除后缀）
 ```

@@ -5,7 +5,6 @@ cssclasses:
   - cards-cols-4
 
 ---
-
 `BUTTON[dark-mode]` `BUTTON[light-mode]`
 
 ```meta-bind-button
@@ -39,7 +38,6 @@ actions:
     command: theme:use-dark
 
 ```
-
 This page was last modified at `$= dv.current().file.mtime`.
 
 - #### 最近 #mcl/list-grid
@@ -47,7 +45,11 @@ This page was last modified at `$= dv.current().file.mtime`.
 - #### 随机
  `$=dv.list(dv.pages( ).sort((a, b) => Math.random() - 0.5).limit(5).file.link)`
 
-
+```tasks
+heading includes GTD & Top 3 Tasks
+path includes 000_年月日/004_daily
+scheduled on today
+```
 
 ```dataviewjs
 	dv.span("**🎉 Happiness 🎉**")
@@ -89,28 +91,8 @@ renderHeatmapCalendar(this.container, calendarData)
 ```
 
 
-
-
----
-
----
-```tracker
-searchType: frontmatter
-searchTarget: habit
-folder: 004_daily
-month:
-    startDate: 2024-11-01
-    endDate: 2024-12-31
-    showAverage: true
-```
-
-
----
-[🎲 随机笔记](random-note:true)
-
----
 ```dataviewjs
 const now = new Date();
 dv.el("p", `🕒 ${now.toLocaleTimeString()} | 📅 ${now.toDateString()}`)
 ```
---- <%* await tp.file.move("/Home/Dashboard") %> ---
+
