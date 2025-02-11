@@ -1,9 +1,12 @@
 ---
-date: 
+date: git
 tags:
-  - ob相关
   - git
   - 芝士
+  - ob插件
+time: 2025-02-07
+description: 
+source: https://github.com/Vinzent03/obsidian-git
 ---
 
 ### git 常用的一些指令[廖雪峰git学习网站](https://liaoxuefeng.com/books/git/gitee/index.html)

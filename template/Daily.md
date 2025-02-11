@@ -25,15 +25,13 @@ word:
 ### Yesterday task
 - [x] [[<% tp.date.yesterday("YYYY-MM-DD") %>|Yesterday]]
 ![[<% tp.date.yesterday("YYYY-MM-DD") %>#Be Grateful!]]
-### GTD & Top 3 Tasks
-- [ ] 
-- [ ] 
+### GTD
 - [ ] 
 ---
 
-### Be Grateful!
-> 
+
 ###  Morning Checklist
+
 
 ## What happened today?
 > [!info]- tips
@@ -41,17 +39,14 @@ word:
 > 今天学习了哪些知识
 > 今天见了那些人
 > 还有哪些地方你认为可以改进
-
-
 ### Project review
-#### 梳理
-
-#### 零碎
-
 #### capture
 
 ## END-OF-DAY CHECKLIST
-
+### check
+阅读时长：`INPUT[number:阅读]`锻炼时长：`INPUT[number:举哑铃]`
+英文外刊阅读：`INPUT[toggle:word]`
+### Be Grateful!
 ## NOTES
 ### Notes created today
 ```dataview

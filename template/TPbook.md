@@ -1,5 +1,17 @@
 ---
-
+<%*
+let title = tp.file.title;
+if (title.startsWith("Untitled")) {
+ title = await tp.system.prompt("Enter the title of the book");
+ if(!title) return;
+}
+if (title == "") {
+title = "Untitled";
+} else {
+await tp.file.rename(title);
+}
+await tp.file.move("/001_knowledge/books/book/" + title)
+-%>
 title: "{{title}}"
 subTitle: "{{subTitle}}"
 originalTitle:

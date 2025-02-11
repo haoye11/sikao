@@ -1,9 +1,11 @@
 ---
-date: 
+type: Template
 tags:
   - ob插件
   - 模板
-  - 芝士
+date: 2024-10-07
+source: https://github.com/SilentVoid13/Templater
+description:
 ---
 
 1. 以<% %>作为命令，函数是我们可以在命令中调用并返回值(替换字符串)的对象

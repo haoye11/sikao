@@ -10,7 +10,7 @@ title = "Untitled";
 } else {
 await tp.file.rename(title);
 }
-await tp.file.move("/006_think/little/随感/"+ title)
+await tp.file.move("/002_think/little/随感/"+ title)
 -%>
 title: "[[<% title %>]]"
 date_creation: <% tp.file.creation_date("YYYY-MM-DD") %>
