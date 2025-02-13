@@ -4,13 +4,14 @@ dv.el("p", `🕒 ${now.toLocaleTimeString()} | 📅 ${now.toDateString()}`)
 ```
 ### 最近 
 ```dataviewjs
-await dv.list(
-  (await dv.pages())
+ dv.list(
+  (dv.pages())
     .sort(f => f.file.ctime.ts, "desc")
     .limit(5)
     .file.link
 )
 ```
+### tasks
 ```tasks
 heading includes GTD & Top 3 Tasks
 path includes 000_年月日/004_daily
