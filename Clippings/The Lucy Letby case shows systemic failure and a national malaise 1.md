@@ -4,7 +4,7 @@ source: https://www.economist.com/leaders/2025/02/13/the-lucy-letby-case-shows-s
 author:
   - "[[The Economist]]"
 published: 2025-02-13
-created: 2025-02-19
+created: 2025-02-20
 description: Whether or not the neonatal nurse is guilty of murder, her saga is revealing | Leaders
 tags:
   - clippings
@@ -13,8 +13,8 @@ langr-audio:
 langr-origin: 
 langr-pos: "1"
 done: 
+modification date: 星期四 20日 二月 2025 16:09:12
 ---
-
 ## Whether or not the neonatal nurse is guilty of murder, her saga is revealing  
 无论这位新生儿护士是否犯有谋杀罪，她的传奇故事都很能说明问题
 
@@ -22,13 +22,9 @@ Feb 13th 2025  2月 13th 2025
 
 Listen to this story.  听听这个故事。
 
-<audio class="react-audio-player " controls="" id="audio-player" preload="none" src="https://www.economist.com/content-assets/audio/009%20Leaders%20-%20Systemic%20failure-d14bbb4bd104f508a7c71e88b55123e5.mp3" title="The Lucy Letby case shows systemic failure and a national malaise" controlslist="nodownload" data-immersive-translate-walked="b8a99248-d306-49af-9f4d-dbbd7d8a767e"><p data-immersive-translate-walked="b8a99248-d306-49af-9f4d-dbbd7d8a767e" data-immersive-translate-paragraph="1">Your browser does not support the &lt;audio&gt; element.<span class="notranslate immersive-translate-target-wrapper" data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span class="notranslate immersive-translate-target-translation-theme-blockquote immersive-translate-target-translation-block-wrapper-theme-blockquote immersive-translate-target-translation-block-wrapper" data-immersive-translate-translation-element-mark="1"><span class="notranslate immersive-translate-target-inner immersive-translate-target-translation-theme-blockquote-inner" data-immersive-translate-translation-element-mark="1">您的浏览器不支持 &lt;audio&gt; 元素。</span></span></span></p></audio>
+<audio class="react-audio-player " controls="" id="audio-player" preload="none" src="https://www.economist.com/content-assets/audio/009%20Leaders%20-%20Systemic%20failure-d14bbb4bd104f508a7c71e88b55123e5.mp3" title="The Lucy Letby case shows systemic failure and a national malaise" controlslist="nodownload" data-immersive-translate-walked="c9a7698d-fc45-4db1-888f-4303308f7998"><p data-immersive-translate-walked="c9a7698d-fc45-4db1-888f-4303308f7998" data-immersive-translate-paragraph="1">Your browser does not support the &lt;audio&gt; element.<span class="notranslate immersive-translate-target-wrapper" data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span class="notranslate immersive-translate-target-translation-theme-blockquote immersive-translate-target-translation-block-wrapper-theme-blockquote immersive-translate-target-translation-block-wrapper" data-immersive-translate-translation-element-mark="1"><span class="notranslate immersive-translate-target-inner immersive-translate-target-translation-theme-blockquote-inner" data-immersive-translate-translation-element-mark="1">您的浏览器不支持 &lt;audio&gt; 元素。</span></span></span></p></audio>
 完成否：`INPUT[toggle:done]`
 ^^^article
-
-
-
-
 IT IS HARD to know which is more shocking. Is it the murder of seven babies and attempted killing of seven others at the Countess of Chester hospital in north-west England, for which Lucy Letby, who was a nurse there, is in prison for life? Or is it the possibility that Ms Letby is the victim of a miscarriage of justice? It looks increasingly likely that her convictions, in 2023 and 2024, were questionable. An international panel of experts has raised serious doubts about the medical evidence—and about whether the babies’ deaths were even [murder](https://www.economist.com/britain/2025/02/10/it-increasingly-looks-as-if-lucy-letbys-conviction-was-unsafe). The Criminal Cases Review Commission (CCRC), an independent body that probes potential wrongful convictions, may refer the case back to the Court of Appeal. Whether or not Ms Letby is guilty, her saga exposes deep failures, as well as an overarching malaise afflicting Britain.  
 我T 很难知道哪个更令人震惊。是英格兰西北部切斯特伯爵夫人医院谋杀七名婴儿并企图杀害另外七人，为此，曾任护士的露西·莱特比 （Lucy Letby） 被判处终身监禁吗？还是莱特比女士有可能是司法不公的受害者？她在 2023 年和 2024 年的定罪似乎越来越值得怀疑。一个国际专家小组对医学证据提出了严重怀疑，也对婴儿的死亡是否是[谋杀](https://www.economist.com/britain/2025/02/10/it-increasingly-looks-as-if-lucy-letbys-conviction-was-unsafe)提出了严重怀疑。刑事案件审查委员会 （CCRC） 是一个调查潜在错误定罪的独立机构，可以将案件发回上诉法院。无论莱特比女士是否有罪，她的传奇故事都揭露了深刻的失败，以及困扰英国的普遍弊病。
 
@@ -47,7 +43,10 @@ The third, and craziest, failure relates to the National Health Service. The Let
 In all this a common thread is that poor standards have set in to the point that perceptions become dulled. Hence the overarching malaise. In worrying ways Britain is blind. The public is slow to see that evidence is questionable. The fog around an inquiry may be so dense that people cannot spot fatal flaws. Vision in the health service may be too blurred to distinguish between systemic failure and murder. Yes, justice should be blind. But the Letby case shows that Britons need to keep their eyes wide open. ■  
 在这一切中，一个共同点是，糟糕的标准已经形成，以至于人们的观念变得迟钝。因此，总体上的不适。令人担忧的是，英国是盲目的。公众迟迟没有看到证据是有问题的。调查周围的迷雾可能非常浓密，以至于人们无法发现致命的缺陷。卫生服务中的视力可能太模糊，无法区分系统性失败和谋杀。是的，正义应该是盲目的。但莱特比案表明，英国人需要睁大眼睛。■
 ^^^words
-
++ **[[appeal]]** : n. 呼吁，恳求；上诉，申诉；吸引力，感染力；（为慈善或正义事业的）募捐；启发，打动v. 呼吁，恳求；上诉，申诉；有吸引力，引起兴趣；启发，打动
++ **[[malaise]]** : n. 不舒服；心神不安；难以描述的问题
++ **[[miscarriage]]** : n. [妇产] 流产；失败；误送
++ **[[overarching]]** : adj. 首要的；支配一切的；包罗万象的v. 成拱形
 
 ^^^notes
 *Subscribers to The Economist can sign up to our new [Opinion newsletter](https://www.economist.com/newsletters/opinion), which brings together the best of our leaders, columns, guest essays and reader correspondence.  

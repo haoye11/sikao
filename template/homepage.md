@@ -2,14 +2,72 @@
 const now = new Date();
 dv.el("p", `🕒 ${now.toLocaleTimeString()} | 📅 ${now.toDateString()}`)
 ```
+`BUTTON[theme]` `BUTTON[todo]` `BUTTON[gallery]` 
+```meta-bind-button
+label: theme
+icon: switch
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: theme
+hidden: true
+actions:
+  - type: command
+    command: obsidian-minimal-settings:toggle-minimal-switch
+
+```
+```meta-bind-button
+label: todo
+icon: list
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: todo
+hidden: true
+actions:
+  - type: command
+    command: obsidian-tasks-plugin:edit-task
+
+```
+
+```meta-bind-button
+label: gallery
+icon: book
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: gallery
+hidden: true
+actions:
+  - type: command
+    command: obsidian-douban-plugin:searcher-douban-import-and-create-file
+
+```
 ### 最近 
-```dataviewjs
- dv.list(
-  (dv.pages())
-    .sort(f => f.file.ctime.ts, "desc")
-    .limit(5)
-    .file.link
-)
+```dataview
+TABLE without id
+    file.link  AS "文档标题",
+    ("🗓️" + dateformat(file.cday, "MM-dd EEE")) AS "创建日期",
+    ("⏱️" + default(dateformat(file.ctime, "HH:mm"), "--:--")) AS "创建时间",
+    choice(
+    length(file.tags) > 0, 
+    "🏷️" + file.tags[0], 
+    "🈚标签"
+) AS "标签"
+WHERE
+    file.cday >= date(now) - dur(60 day)
+    AND !startswith(file.folder, "_")
+    AND !contains(file.path, "template")
+    AND !contains(file.path, "001_knowledge/外刊/单词")
+SORT 
+    file.cday DESC
+LIMIT 5
 ```
 ### tasks
 ```tasks
@@ -17,10 +75,11 @@ heading includes GTD & Top 3 Tasks
 path includes 000_年月日/004_daily
 scheduled on today
 ```
-
 ```tasks
-created on today
+due on today
 ```
+
+
 
 ```dataviewjs
 	dv.span("**🎉 word 🎉**")
@@ -111,8 +170,5 @@ created on today
 	renderHeatmapCalendar(this.container, calendarData)
 	
 ```
-
-
-
 
 

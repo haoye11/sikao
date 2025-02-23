@@ -5,25 +5,6 @@ cssclasses:
   - cards-cols-4
 ---
 
-
-```button
-name theme
-type command
-action Minimal Theme Settings: Switch between light and dark mode
-color green
-```
-
-```button
-name gallery
-type command
-action Douban: 搜索豆瓣并创建文档
-```
-```button
-name light/dark
-type command
-action Minimal Theme Settings: Switch between light and dark mode
-```
-
 ---
 ```dataview
 Table without ID

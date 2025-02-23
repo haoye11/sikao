@@ -1,13 +1,19 @@
 ---
-title: "Countering China’s diplomatic coup"
-source: "https://www.economist.com/leaders/2025/02/13/countering-chinas-diplomatic-coup"
+title: Countering China’s diplomatic coup
+source: https://www.economist.com/leaders/2025/02/13/countering-chinas-diplomatic-coup
 author:
   - "[[The Economist]]"
 published: 2025-02-13
-created: 2025-02-14
-description: "China has turned much of the global south against Taiwan. That could be laying the ground for forced unification | Leaders"
+created: 2025-02-19
+description: China has turned much of the global south against Taiwan. That could be laying the ground for forced unification | Leaders
 tags:
-  - "clippings"
+  - clippings
+langr: xxxx
+langr-audio: 
+langr-origin: 
+langr-pos: 
+done: 
+modification date: 星期三 19日 二月 2025 18:34:18
 ---
 ## China has turned much of the global south against Taiwan. That could be laying the ground for forced unification  
 中国已经让南半球的大部分国家反对台湾。这可能为强制统一奠定基础
@@ -16,10 +22,11 @@ Feb 13th 2025  2月 13th 2025
 
 Listen to this story.  听听这个故事。
 
-<audio class="react-audio-player " controls="" id="audio-player" preload="none" src="https://www.economist.com/content-assets/audio/008%20Leaders%20-%20Words%20before%20war-0b73b1e34778c1b582f9149ba18abbd7.mp3" title="Countering China’s diplomatic coup" controlslist="nodownload" data-immersive-translate-walked="c2a8f660-7b7b-4259-828e-165d7ba431ea"><p data-immersive-translate-walked="c2a8f660-7b7b-4259-828e-165d7ba431ea" data-immersive-translate-paragraph="1">Your browser does not support the &lt;audio&gt; element.<span class="notranslate immersive-translate-target-wrapper" data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span class="notranslate immersive-translate-target-translation-theme-dividingLine immersive-translate-target-translation-block-wrapper-theme-dividingLine immersive-translate-target-translation-block-wrapper" data-immersive-translate-translation-element-mark="1"><span class="notranslate immersive-translate-target-inner immersive-translate-target-translation-theme-dividingLine-inner" data-immersive-translate-translation-element-mark="1">您的浏览器不支持 &lt;audio&gt; 元素。</span></span></span></p></audio>
-
+<audio class="react-audio-player " controls="" id="audio-player" preload="none" src="https://www.economist.com/content-assets/audio/008%20Leaders%20-%20Words%20before%20war-0b73b1e34778c1b582f9149ba18abbd7.mp3" title="Countering China’s diplomatic coup" controlslist="nodownload" data-immersive-translate-walked="45c1aaec-f518-4292-ad30-2a05253d451e"><p data-immersive-translate-walked="45c1aaec-f518-4292-ad30-2a05253d451e" data-immersive-translate-paragraph="1">Your browser does not support the &lt;audio&gt; element.<span class="notranslate immersive-translate-target-wrapper" data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span class="notranslate immersive-translate-target-translation-theme-blockquote immersive-translate-target-translation-block-wrapper-theme-blockquote immersive-translate-target-translation-block-wrapper" data-immersive-translate-translation-element-mark="1"><span class="notranslate immersive-translate-target-inner immersive-translate-target-translation-theme-blockquote-inner" data-immersive-translate-translation-element-mark="1">您的浏览器不支持 &lt;audio&gt; 元素。</span></span></span></p></audio>
+完成否：`INPUT[toggle:done]`
+^^^article
 IN JUST A few weeks the Trump administration has unleashed a dizzying number of initiatives and controversies abroad, from imposing tariffs and cutting America’s international aid budgets to starting talks with Vladimir Putin over the war in Ukraine and reimposing “maximum pressure” on Iran. Yet America’s biggest long-term challenge remains China and, as we report, amid the turmoil of America’s election campaign in 2024 and the disruption of Donald Trump’s first weeks in office, the People’s Republic has been busy strengthening its position.  
-I 在短短几周内，特朗普政府在国外引发了大量令人眼花缭乱的举措和争议，从征收关税和削减美国的国际援助预算，到开始与弗拉基米尔·普京就乌克兰战争进行谈判，并重新对伊朗施加“最大压力”。然而，美国最大的长期挑战仍然是中国，正如我们报道的那样，在美国 2024 年竞选活动的动荡和唐纳德·特朗普上任头几周的中断中，中华人民共和国一直在忙于加强其地位。
+我仅仅几周，特朗普政府在国外引发了大量令人眼花缭乱的举措和争议，从征收关税和削减美国的国际援助预算，到开始与弗拉基米尔·普京就乌克兰战争进行谈判，并重新对伊朗施加“最大压力”。然而，美国最大的长期挑战仍然是中国，正如我们报道的那样，在美国 2024 年竞选活动的动荡和唐纳德·特朗普上任头几周的中断中，中华人民共和国一直在忙于加强其地位。
 
 Barely noticed, China has pulled off a diplomatic coup by turning more of the world [against the self-governing island of Taiwan](https://www.economist.com/international/2025/02/09/chinas-stunning-new-campaign-to-turn-the-world-against-taiwan). Most countries, including Western ones, recognise China rather than Taiwan. Until recently, most of them also either acknowledged that China claimed sovereignty over Taiwan, advocating a peaceful resolution of the dispute, or took no position on the question. But over the past 18 months a large number of countries in the global south have signed up to a new diplomatic position. They now support “all” efforts by China to unify the island with the mainland. *The Economist* reckons that 70 countries have now endorsed this harder language.  
 几乎没有人注意到的是，中国通过让世界更多人[反对台湾这个自治岛屿](https://www.economist.com/international/2025/02/09/chinas-stunning-new-campaign-to-turn-the-world-against-taiwan)，完成了一场外交政变。大多数国家，包括西方国家，都承认中国而不是台湾。直到最近，他们中的大多数也要么承认中国声称对台湾拥有主权，主张和平解决争端，要么在这个问题上不持任何立场。但在过去 18 个月里，南半球的许多国家已经签署了新的外交立场。他们现在支持中国为统一该岛与大陆所做的“一切”努力。*《经济学人》*估计，现在已经有 70 个国家支持这种更强硬的措辞。
@@ -38,7 +45,8 @@ China’s diplomatic effort appears to be aimed at minimising the censure it wou
 
 Mr Trump’s return to the White House, along with his resentful and transactional America-first worldview, raises questions about America’s commitment to its partners in Asia. The diplomatic coup over Taiwan is a reminder that, amid these doubts, China is busy making plans.■  
 特朗普重返白宫，以及他充满怨恨和交易性的美国优先世界观，引发了人们对美国对其亚洲伙伴的承诺的质疑。台湾的外交政变提醒我们，在这些疑虑中，中国正忙于制定计划。■
-
+^^^words
+^^^notes
 *Subscribers to The Economist can sign up to our new [Opinion newsletter](https://www.economist.com/newsletters/opinion), which brings together the best of our leaders, columns, guest essays and reader correspondence.  
 《经济学人》的订阅者可以注册我们新的[《观点》时事通讯](https://www.economist.com/newsletters/opinion)，该时事通讯汇集了我们最好的领导者、专栏、客座文章和读者来信。*
 

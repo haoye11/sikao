@@ -4,25 +4,28 @@ source: https://www.economist.com/leaders/2025/02/13/will-donald-trump-and-elon-
 author:
   - "[[The Economist]]"
 published: 2025-02-13
-created: 2025-02-15
+created: 2025-02-19
 description: America’s security depends upon their success | Leaders
 tags:
   - clippings
 langr: xxxx
 langr-audio: 
 langr-origin: 
-langr-pos: "1"
+langr-pos: 
+done: true
+modification date: 星期三, 二月 19日 2025, 6:53:40 晚上
+Yesterday: 2025-02-18
+Tomorrow: 2025-02-20
 ---
-
 Feb 13th 2025  2月 13th 2025
 
 Listen to this story.  听听这个故事。
 
-<audio class="react-audio-player " controls="" id="audio-player" preload="none" src="https://www.economist.com/content-assets/audio/006%20Leaders%20-%20American%20defence-a8b7ffc6568f8cdeeaa96b39c16fd0f7.mp3" title="Will Donald Trump and Elon Musk wreck or reform the Pentagon?" controlslist="nodownload" data-immersive-translate-walked="ffa3e4ad-95f1-4c0f-b6c6-fcdfd6a36653"><p data-immersive-translate-walked="ffa3e4ad-95f1-4c0f-b6c6-fcdfd6a36653" data-immersive-translate-paragraph="1">Your browser does not support the &lt;audio&gt; element.<span class="notranslate immersive-translate-target-wrapper" data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span class="notranslate immersive-translate-target-translation-theme-dividingLine immersive-translate-target-translation-block-wrapper-theme-dividingLine immersive-translate-target-translation-block-wrapper" data-immersive-translate-translation-element-mark="1"><span class="notranslate immersive-translate-target-inner immersive-translate-target-translation-theme-dividingLine-inner" data-immersive-translate-translation-element-mark="1">您的浏览器不支持 &lt;audio&gt; 元素。</span></span></span></p></audio>
-
+<audio class="react-audio-player " controls="" id="audio-player" preload="none" src="https://www.economist.com/content-assets/audio/006%20Leaders%20-%20American%20defence-a8b7ffc6568f8cdeeaa96b39c16fd0f7.mp3" title="Will Donald Trump and Elon Musk wreck or reform the Pentagon?" controlslist="nodownload" data-immersive-translate-walked="438e69c3-abae-477f-bee1-0dfa454a3b3f"><p data-immersive-translate-walked="438e69c3-abae-477f-bee1-0dfa454a3b3f" data-immersive-translate-paragraph="1">Your browser does not support the &lt;audio&gt; element.<span class="notranslate immersive-translate-target-wrapper" data-immersive-translate-translation-element-mark="1" lang="zh-CN"><br><span class="notranslate immersive-translate-target-translation-theme-blockquote immersive-translate-target-translation-block-wrapper-theme-blockquote immersive-translate-target-translation-block-wrapper" data-immersive-translate-translation-element-mark="1"><span class="notranslate immersive-translate-target-inner immersive-translate-target-translation-theme-blockquote-inner" data-immersive-translate-translation-element-mark="1">您的浏览器不支持 &lt;audio&gt; 元素。</span></span></span></p></audio>
+完成否：`INPUT[toggle:done]`
 ^^^article
 IN THE PENTAGON they must surely be on high alert. On February 9th President Donald Trump declared that it would soon become the target for Elon Musk’s Department of Government Efficiency (DOGE). Accusing it of “hundreds of billions of fraud and abuse”, Mr Trump will unleash his insurgents, fresh from feeding foreign aid into the woodchipper. Their work could not be more important, or more risky.  
-I 在五角大楼，他们肯定处于高度警惕状态。2月9日，唐纳德·特朗普总统宣布，它很快将成为埃隆·马斯克（Elon Musk）的政府效率部（doge）的目标。特朗普指责它犯下了“数千亿的欺诈和滥用行为”，他将释放他的叛乱分子，这些叛乱分子刚刚将外国援助送入碎木机。他们的工作再重要不过了，风险也大不过了。
+我N 五角大楼 他们肯定处于高度警惕状态。2 月 9 日，唐纳德·特朗普总统宣布，它将很快成为埃隆·马斯克的政府效率部 （DOGE） 的目标。特朗普指责它犯下了“数千亿的欺诈和滥用行为”，他将释放他的叛乱分子，这些叛乱分子刚刚将外国援助送入碎木机。他们的工作再重要不过了，风险也大不过了。
 
 That is because America’s armed forces face a real problem. Not since the Soviet Union launched *Sputnik* and built huge tank formations at the height of the cold war have America’s military vulnerabilities been so glaring. In the killing fields of Ukraine America is being out-innovated by drone designers; in the seas and skies off China it is losing its ability to deter a blockade or invasion of Taiwan.  
 这是因为美国武装部队面临着一个真正的问题。自从苏联在冷战最激烈的时候发射了*人造卫星*并建造了巨大的坦克编队以来，美国的军事脆弱性从未如此明显。在乌克兰的杀戮场上，美国被无人机设计师超越了创新;在中国附近的海空，它正在失去威慑对台湾的封锁或入侵的能力。
@@ -56,9 +59,8 @@ Mr Musk’s task is big and complex. American weapons need more AI, autonomy and
 Reforming the Pentagon is much harder than other parts of government. America cannot focus on preparing for war in 2035 if that involves lowering its defences today. It cannot simply replace multi-billion-dollar submarines and bomber squadrons with swarms of drones, because to project power to the other side of the world will continue to require big platforms. Instead America needs a Department of Defence that can revolutionise the economics of massive systems and accelerate the spread of novel systems at the same time.
 
 Mr Musk and his boss are conflicted. If Mr Trump prefers sacking generals for supposedly being “woke” or disloyal, he will bring dysfunction upon the Pentagon. If Mr Musk and his mil-tech brethren use DOGE’s campaign to wreck, or to boost their own power and wealth, they will corrupt it. Those temptations make it hard to think that this administration will succeed where others have failed. But the hope is that they will. America’s security depends upon it. ■
-
-*For subscribers only: to see how we design each week’s cover, sign up to our weekly [Cover Story newsletter](https://www.economist.com/newsletters/cover-story).*
-
+^^^words
+^^^notes
 ### Explore more
 
 [Leaders](https://www.economist.com/topics/leaders)[Donald Trump](https://www.economist.com/topics/donald-trump)[Elon Musk](https://www.economist.com/topics/elon-musk)[United States](https://www.economist.com/topics/united-states)
@@ -78,8 +80,3 @@ Subscriber only | Checks and Balance
 ## Exclusive insight and reading recommendations from our correspondents in America
 
 Delivered to your inbox every week
-
-^^^words
-
-
-^^^notes

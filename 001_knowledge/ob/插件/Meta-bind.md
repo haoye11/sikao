@@ -13,7 +13,23 @@ description:
 
 ### 例子
 #### 添加按钮
-`BUTTON[dark-mode]` `BUTTON[light-mode]`
+`BUTTON[dark-mode]` `BUTTON[light-mode]` `BUTTON[theme]`
+
+```meta-bind-button
+label: theme
+icon: switch
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: theme
+hidden: true
+actions:
+  - type: command
+    command: obsidian-minimal-settings:toggle-minimal-switch
+
+```
 
 ```meta-bind-button
 label: 浅色

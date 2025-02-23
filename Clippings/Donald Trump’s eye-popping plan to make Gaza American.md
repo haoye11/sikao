@@ -1,14 +1,21 @@
 ---
-title: "Donald Trump’s eye-popping plan to make Gaza American"
-source: "https://www.economist.com/middle-east-and-africa/2025/02/05/donald-trumps-eye-popping-plan-to-make-gaza-american"
+title: Donald Trump’s eye-popping plan to make Gaza American
+source: https://www.economist.com/middle-east-and-africa/2025/02/05/donald-trumps-eye-popping-plan-to-make-gaza-american
 author:
   - "[[The Economist]]"
 published: 2025-02-05
 created: 2025-02-06
-description: "Is his call to evict Palestinians from the “hell hole” an imperial fantasy or a negotiating ploy? | Middle East & Africa"
+description: Is his call to evict Palestinians from the “hell hole” an imperial fantasy or a negotiating ploy? | Middle East & Africa
 tags:
-  - "clippings"
+  - clippings
+langr: xxxx
+langr-audio: 
+langr-origin: 
+langr-pos: "1"
+done: false
 ---
+完成否：`INPUT[toggle:done]`
+^^^article
 ## Is his call to evict Palestinians from the “hell hole” an imperial fantasy or a negotiating ploy?
 
 Feb 5th 2025|JERUSALEM AND WASHINGTON, DC
@@ -55,4 +62,8 @@ Subscriber only | Checks and Balance
 
 ## Exclusive insight and reading recommendations from our correspondents in America
 
+^^^words
+
+
+^^^notes
 Delivered to your inbox every week
